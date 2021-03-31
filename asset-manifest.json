@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://trelly.github.io/csb-h3m9l/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://trelly.github.io/csb-h3m9l/static/js/main.cd84d416.chunk.js",
+    "main.js.map": "https://trelly.github.io/csb-h3m9l/static/js/main.cd84d416.chunk.js.map",
+    "runtime-main.js": "https://trelly.github.io/csb-h3m9l/static/js/runtime-main.d54f71fc.js",
+    "runtime-main.js.map": "https://trelly.github.io/csb-h3m9l/static/js/runtime-main.d54f71fc.js.map",
+    "static/js/2.6018c1b0.chunk.js": "https://trelly.github.io/csb-h3m9l/static/js/2.6018c1b0.chunk.js",
+    "static/js/2.6018c1b0.chunk.js.map": "https://trelly.github.io/csb-h3m9l/static/js/2.6018c1b0.chunk.js.map",
+    "index.html": "https://trelly.github.io/csb-h3m9l/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://trelly.github.io/csb-h3m9l/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6018c1b0.chunk.js.LICENSE.txt": "https://trelly.github.io/csb-h3m9l/static/js/2.6018c1b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d54f71fc.js",
+    "static/js/2.6018c1b0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.cd84d416.chunk.js"
+  ]
+}
